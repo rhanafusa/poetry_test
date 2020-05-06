@@ -12,6 +12,8 @@ numpy = "^1.18.4"
 pandas = "^1.0.3"
 matplotlib = "^3.2.1"
 scipy = "^1.4.1"
+pandas-profiling = "^2.6.0"
+scikit-learn = "^0.22.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
