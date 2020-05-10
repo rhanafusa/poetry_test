@@ -4,6 +4,9 @@
 
 poetryをインストールしてください。
 
+※注意　Python3を使ってください。Python2のサポートは終了しました。
+参考：[2020年4月までにPython 3へ移行を - あと4カ月でPython 2サポート終了](https://news.mynavi.jp/article/20191223-943988/)
+
 Linuxの場合
 
 ```console
@@ -41,7 +44,7 @@ poetry install
 
 ## notebookを開く
 
-環境構築終了後、以下のコマンドで`jupyter notebook`を起動してください。`poetry`で構築したpython仮想環境の`jypyter notebook`を実行します。
+環境構築終了後、以下のコマンドで`jupyter notebook`を起動してください。`poetry`で構築したpython仮想環境の`jypyter notebook`を実行します。個人的には`jupyter notebook`の代わりに`jupyter lab`を使うのがオススメです。
 
 ```console
 poetry run jupyter notebook
