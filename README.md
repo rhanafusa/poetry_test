@@ -4,10 +4,10 @@
 
 python3.8をインストールしてください。
 
+- [Download Python | Python.org](https://www.python.org/downloads/)
+
 ※注意　Python3を使ってください。Python2のサポートは終了しました。
 参考：[2020年4月までにPython 3へ移行を - あと4カ月でPython 2サポート終了](https://news.mynavi.jp/article/20191223-943988/)
-
-- [Download Python | Python.org](https://www.python.org/downloads/)
 
 ## poetryのインストールと設定
 
