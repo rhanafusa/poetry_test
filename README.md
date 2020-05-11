@@ -8,7 +8,7 @@ python3.8をインストールしてください。
 
 ## poetryのインストールと設定
 
-poetryをインストールしてください。
+poetryをインストールしてください。poetryは、JavaScriptでいうnpmのようなもの。
 
 ※注意　Python3を使ってください。Python2のサポートは終了しました。
 参考：[2020年4月までにPython 3へ移行を - あと4カ月でPython 2サポート終了](https://news.mynavi.jp/article/20191223-943988/)
