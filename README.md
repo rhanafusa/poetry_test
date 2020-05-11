@@ -1,5 +1,11 @@
 # poetryを利用した環境構築
 
+## pythonをインストール
+
+python3.8をインストールしてください。
+
+- [Download Python | Python.org](https://www.python.org/downloads/)
+
 ## poetryのインストールと設定
 
 poetryをインストールしてください。
